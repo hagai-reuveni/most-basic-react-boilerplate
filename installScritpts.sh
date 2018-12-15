@@ -23,5 +23,3 @@ npm i --save-dev babel-loader
 npm i --save react react-dom
 # Hot Module Replacement change will apply in the app running and will not reload the entire page
 npm i --save-dev react-hot-loader
-# SASS
-npm i --save-dev sass-loader node-sass css-loader style-loader
